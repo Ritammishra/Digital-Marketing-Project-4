@@ -7,6 +7,7 @@
 ![image](https://img.shields.io/badge/Second-css-green)
 ***
 ![image](./Thumbnail.png)
+[Live Preview](https://digital-marketing-project-4.netlify.app/)
 ***
 ## What I learn from this project
 - How to add Image.
